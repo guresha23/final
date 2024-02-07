@@ -1,0 +1,118 @@
+
+.sign-up-wallpaper{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 734px;
+    background-image: url(../pictures/background4.jpg);
+    
+    -webkit-box-align: center;
+    
+        -ms-flex-align: center;
+    
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    }
+    
+    .sign-up-box{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        width: 450px;
+        height: 450px;
+        background-color: rgb(205, 194, 194);
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        border-radius: 15px;
+        -webkit-box-shadow: 5px 5px 5px 5px;
+                box-shadow: 5px 5px 5px 5px;
+        
+    }
+    
+    .input-decoration{
+        width: 400px;
+        height: 40px;
+        margin: 3px;
+        border-radius: 10px;
+    }
+    
+    .sign-up-direction{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        gap: 20px;
+    }
+    
+    .input-decoration2{
+    
+        
+        width: 185px;
+        height: 40px;
+        margin-bottom: 3px;
+        gap: 8px;
+        border-radius: 8px;
+    
+    }
+    
+    
+    .sign-checkbox{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+       margin-left: 40px;
+       margin-top: 10px;
+       color: #fff;
+    }
+    
+    .checkbox{
+        margin-bottom: 20px;
+        margin-right: 10px;
+    }
+    
+    
+    
+    .sign-up-button{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    
+    }
+    
+    .color{
+        color: white;
+       
+    }
+    
+    .sign-up-inside{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    
+    }

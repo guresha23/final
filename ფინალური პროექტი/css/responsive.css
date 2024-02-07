@@ -1,0 +1,86 @@
+@media screen and (width <=1100px){
+
+*{
+    overflow:hidden;
+}
+
+    .nav-bar a{
+        display: none;
+    }
+
+    .nav-bar input{
+        display: none;
+    }
+
+    .header{
+        display: flex;
+        
+        
+    }
+
+    .hamburger2{
+        display: flex;
+        width: 100%;
+    }
+
+    .logo{
+        display: flex;
+    
+       
+    }
+
+.logo img{
+    display: flex;
+}
+
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    background-color: none;
+  
+}
+
+
+.orange{
+
+background-color: white;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+
+.orange div{
+    width: 300px;
+}
+
+
+
+.banner{
+    display: flex;
+  
+
+
+
+}
+
+
+.logos{
+    display: flex;
+    gap: 30px;
+  
+}
+
+
+
+
+
+}
+
+
+
+
+
+ 
+
